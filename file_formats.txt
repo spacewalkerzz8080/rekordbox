@@ -110,3 +110,13 @@ PWV3    - High resolution Wave display data
   >entries>
       3bit  - color 
       5bit  - height
+[Mac] --(HDMI/DisplayPort)--> [Monitor]
+          |
+          |--(USB)--> [DDJ-1000] 
+                         |
+                         |--(XLR/RCA)--> [Titan 2000 Amplifier] 
+                                         |
+                                         |--(Wired)--> [Subwoofer] 
+                                         |
+                                         |--(Speakon/Wire)--> [Speakers]
+
